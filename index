@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Background</title>
+        <style>
+            body{
+                background-color: yellow;
+                background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zXUNL2-4TovF7MObgejXrIvGtwG-UWfQMg&s");
+                background-repeat: no-repeat;
+                background-position: top right;
+                background-size:cover;
+            }
+        </style>
+    </head>
+    <body>
+        Hello world
+    </body>
+</html>
